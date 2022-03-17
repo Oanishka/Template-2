@@ -1,0 +1,59 @@
+.navbar-brand{margin-left: 3rem;}
+.nav-link {font-size: 1rem; font-family: "Open Sans", sans-serif;font-weight: bold;line-height: 1.5;margin-right: 3rem;}
+h3 {color:#F6F6F6;text-align: left;padding: 5%;font-family: "Merriweather,sans"}
+.despre-noi {color:#F6F6F6;padding: 5%;font-size: 20px;font-family: "Merriweather",sans-serif;float:right;}
+.poza-citat{padding: 15px;}
+
+
+.choice{color:white;font-size: 1.2em;}
+
+
+
+
+.uknow{color:#11324D;font-size: 1.2em;}
+
+.fas{color:#11324D;}
+
+
+.icon{color:#ABA104;}
+
+.service{color:#F6F6F6;font-size: 1.2em }
+
+
+.mb-4{color:#ABA104;}
+
+.list-unstyled{margin: auto;}
+.m{color:#ABA104;}
+
+
+.contactphoto{width: 50%; length:50%;}
+
+.hr{color:#ABA104;}
+
+.poza-first-page{width: 55%;length:65%;}
+.feature-box{font-size:1em;}
+
+
+.myButton {
+	box-shadow: 3px 4px 0px 0px #899599;
+	background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+	background-color:#ededed;
+	border-radius:15px;
+	border:1px solid #d6bcd6;
+	display:inline-block;
+	cursor:pointer;
+	color:#212796;
+	font-family:Arial;
+	font-size:17px;
+	padding:2px 9px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e1e2ed;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
+	background-color:#bab1ba;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
